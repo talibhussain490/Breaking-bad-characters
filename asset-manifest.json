@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Breaking-bad-characters/static/css/main.2363e827.css",
+    "main.js": "/Breaking-bad-characters/static/js/main.74705d4a.js",
+    "index.html": "/Breaking-bad-characters/index.html",
+    "main.2363e827.css.map": "/Breaking-bad-characters/static/css/main.2363e827.css.map",
+    "main.74705d4a.js.map": "/Breaking-bad-characters/static/js/main.74705d4a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2363e827.css",
+    "static/js/main.74705d4a.js"
+  ]
+}

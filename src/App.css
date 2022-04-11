@@ -3,7 +3,6 @@
   padding: 0px;
   box-sizing: border-box;
 }
-<<<<<<< HEAD
 html {
   background: linear-gradient(#042a1b, #030c08);
   background-repeat: no-repeat;
@@ -11,10 +10,6 @@ html {
 }
 body {
   width: 100vw;
-=======
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -24,7 +19,6 @@ body {
 }
 .App-header {
   background-color: #282c34;
->>>>>>> 6b08a479da970eb91245c4048ee4fddf0f177cd7
   min-height: 100vh;
   overflow-x: hidden;
 }
